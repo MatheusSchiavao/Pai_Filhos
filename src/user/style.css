@@ -1,0 +1,58 @@
+html {
+  font-size: 14.2px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.row {
+  width:100%;
+  }
+  .item {
+    width:200px;
+    float:left;
+    padding-top:10px;
+    margin-left:10px;
+  }
+  .longitem {
+    width:630px !important;
+    margin-left:10px;
+  }
+  .k-i-search {
+    font-size:22px !important;
+    color:#000 !important;
+  }
+  .k-i-gear {
+      font-size:22px !important;
+    color:#000 !important;
+  }
+  .longitemnomargin {
+    width:630px !important;
+  }
+  
+  .verylongitem {
+    width:900px !important;
+    margin-left:10px;
+  }
+  
+  input:disabled {
+      background-color: rgb(235, 235, 228) !important;
+    }
+  
+    #tabstrip h2 {
+      font-weight: lighter;
+      font-size: 5em;
+      line-height: 1;
+      padding: 0 0 0 30px;
+      margin: 0;
+    }
+
+    #tabstrip h2 span {
+      background: none;
+      padding-left: 5px;
+      font-size: .3em;
+      vertical-align: top;
+    }
+
+    #tabstrip p {
+      margin: 0;
+      padding: 0;
+    }
