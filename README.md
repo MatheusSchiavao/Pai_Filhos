@@ -42,12 +42,12 @@ Para instalar o <Pai_Filhos-FS>, siga estas etapas:
 
 Linux e macOS:
 ```
-git clone https://github.com/MatheusSchiavao/Pai_Filhos-FS.git
+git clone https://github.com/MatheusSchiavao/Pai_Filhos.git
 ```
 
 Windows:
 ```
-git clone https://github.com/MatheusSchiavao/Pai_Filhos-FS.git
+git clone https://github.com/MatheusSchiavao/Pai_Filhos.git
 ```
 
 ## 🤝 Colaboradores
