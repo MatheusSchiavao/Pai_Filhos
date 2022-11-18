@@ -6,7 +6,7 @@
       <h2>   
       Logo da empresa
       </h2>
-     <img src="https://raw.githubusercontent.com/MatheusSchiavao/Pai_Filhos-FS/master/src/assets/images/Logo_P%26F.png" width="260px;" height="200px;" alt="Logo da empresa">
+     <img src="https://raw.githubusercontent.com/MatheusSchiavao/Pai_Filhos/master/src/assets/images/Logo_P%26F.png" width="260px;" height="200px;" alt="Logo da empresa">
    </div>
 
 ## 💼 Tecnologias utilizadas
