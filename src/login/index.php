@@ -184,7 +184,7 @@ if (isset($_POST['c_email'])) {
               <!--  Fim - Div -->
             </div>
             <!--  Anchor caso queira retornar a tela de login -->
-            <a id="goLeft" class="off" style="cursor: default;">Login</a>
+            <a id="goLeft" class="off" style="cursor: pointer;">Login</a>
             <!--  Botão para fazer o cadastro -->
             <button type="submit" id="confirm_button" class="btn btn-primary btn-block mb-4" disabled>Cadastrar</button>
             <!--  Fim - Form -->
@@ -222,7 +222,7 @@ if (isset($_POST['c_email'])) {
               <!--  Fim - Div -->
             </div>
             <!--  Anchor caso o user não temha uma conta ainda -->
-            <a id="goRight" class="off" style="cursor: default;">Cadastrar</a>
+            <a id="goRight" class="off" style="cursor: pointer;">Cadastrar</a>
             <!-- Botão para fazer o login no site  -->
             <button type="submit" style="cursor: pointer;" class="btn btn-primary btn-block mb-4">Login</button>
             <!-- Fim - Form  -->

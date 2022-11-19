@@ -168,7 +168,7 @@ session_start();
             <!-- Div do corpo do card -->
             <div class="card-body">
               <!-- Nome do produto -->
-              <p class="card-text">Camas</p>
+              <p class="card-text">Cama</p>
               <!-- Fim - Div -->
             </div>
             <!-- Botão de acesso a determinada categoria transcrita acima -->
@@ -186,7 +186,7 @@ session_start();
             <!-- Div do corpo do card -->
             <div class="card-body">
               <!-- Nome do produto -->
-              <p class="card-text">Toalhas de mesa</p>
+              <p class="card-text">Mesa</p>
               <!-- Fim - Div -->
             </div>
             <!-- Botão de acesso a determinada categoria transcrita acima -->
@@ -204,7 +204,7 @@ session_start();
             <!-- Div do corpo do card -->
             <div class="card-body">
               <!-- Nome do produto -->
-              <p class="card-text">Toalhas de banho</p>
+              <p class="card-text">Banho</p>
               <!-- Fim - Div -->
             </div>
             <!-- Botão de acesso a determinada categoria transcrita acima -->
@@ -231,7 +231,7 @@ session_start();
       <!-- Div com a class jumbotron irá ajudar na organização do site  -->
       <div class="jumbotron">
         <!-- Título para mostrar do que se trata -->
-        <h4>utensílios para casa</h4>
+        <h4>Utensílios para casa</h4>
         <!-- Fim - Div -->
       </div>
       <!-- Div com class row necessária para o funcionamento do grid -->
@@ -245,7 +245,7 @@ session_start();
             <!-- Div do corpo do card -->
             <div class="card-body">
               <!-- Nome do produto -->
-              <p class="card-text">Kit talheres</p>
+              <p class="card-text">Utensílios de cozinha</p>
               <!-- Fim - Div -->
             </div>
             <!-- Botão de acesso a determinada categoria transcrita acima -->

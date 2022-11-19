@@ -151,7 +151,7 @@ session_start();
             </p>
             <div class="container">
               <!-- Link do google maps -->
-              <iframe src="https://www.google.com/maps/embed?pb=!4v1664805190414!6m8!1m7!1sPgwFLRlfXUhz2vrMzEL8VQ!2m2!1d-23.22667915966372!2d-45.88037941401814!3f86.32855775228067!4f-5.300998758915483!5f0.7820865974627469" width="370" height="290" style="border: 0; padding-right: 20px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" id="#loc"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d916.6126007403183!2d-45.880763511906345!3d-23.226691666637812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc4b2799cfc513%3A0xe12fa2a0f3dab8c1!2sPai%20%26%20Filhos%20Com%C3%A9rcio%20de%20Armarinhos!5e0!3m2!1spt-BR!2sbr!4v1668863074537!5m2!1spt-BR!2sbr" width="370" height="290" style="border: 0; padding-right: 20px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <!-- Fim das div's -->
             </div>
           </div>
