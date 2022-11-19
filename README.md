@@ -6,7 +6,7 @@
       <h2>   
       Logo da empresa
       </h2>
-     <img src="https://raw.githubusercontent.com/MatheusSchiavao/Pai_Filhos-FS/master/src/assets/images/Logo_P%26F.png" width="260px;" height="200px;" alt="Logo da empresa">
+     <img src="https://raw.githubusercontent.com/MatheusSchiavao/Pai_Filhos/master/src/assets/images/Logo_P%26F.png" width="260px;" height="200px;" alt="Logo da empresa">
    </div>
 
 ## 💼 Tecnologias utilizadas
@@ -42,12 +42,12 @@ Para instalar o <Pai_Filhos-FS>, siga estas etapas:
 
 Linux e macOS:
 ```
-git clone https://github.com/MatheusSchiavao/Pai_Filhos-FS.git
+git clone https://github.com/MatheusSchiavao/Pai_Filhos.git
 ```
 
 Windows:
 ```
-git clone https://github.com/MatheusSchiavao/Pai_Filhos-FS.git
+git clone https://github.com/MatheusSchiavao/Pai_Filhos.git
 ```
 
 ## 🤝 Colaboradores
