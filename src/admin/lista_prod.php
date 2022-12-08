@@ -26,6 +26,7 @@ if(isset($_SESSION['nome'])){
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="opera-gx">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../assets/images/Logo_P&F.png" type="image/x-icon">
     <!-- Link do CSS-->
     <link rel="stylesheet" href="../css/style_coll.css">
     <!-- Frameworks/libs do CSS -->
